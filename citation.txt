@@ -1,0 +1,8 @@
+@article{REPO231,
+    author = "Dai, Hong-Liang and Liang, Chu-Xin and Dai, Hong-Ming and Huang, Cui-Yin and Adnan, Rana Muhammad",
+    journal = "Knowledge-Based Systems",
+    pages = "107957",
+    title = "{An Online Portfolio Strategy based on Trend Promote Price Tracing Ensemble Learning Algorithm}",
+    volume = "239",
+    year = "2022"
+}
